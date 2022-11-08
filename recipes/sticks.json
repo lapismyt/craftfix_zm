@@ -2,25 +2,23 @@
   "format_version": "1.12",
   "minecraft:recipe_shaped": {
     "description": {
-    "identifier": "minecraft:torch_charcoal"
+    "identifier": "minecraft:sticks"
     },
 
     
     "tags": [ "crafting_table" ],
     "pattern": [
-      "X",
+      "#",
       "#"
     ],
     "key": {
       "#": {
-        "item": "minecraft:stick"
-      },
-      "X": {
-        "item": "minecraft:charcoal"
+        "item": "minecraft:planks"
       }
     },
     "result": {
-      "item": "minecraft:torch"
+      "item": "minecraft:stick",
+      "count": 4
     }
   }
 }

@@ -2,13 +2,13 @@
     "format_version": "1.16",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "minecraft:chest_from_wooden_planks"
+            "identifier": "minecraft:boat"
         },
         "tags": [
             "crafting_table"
         ],
         "pattern": [
-            "AAA",
+            "   ",
             "A A",
             "AAA"
         ],
@@ -18,7 +18,7 @@
             }
         },
         "result": {
-            "item": "minecraft:chest",
+            "item": "minecraft:oak_boat",
             "count": 1
         },
         "priority": 2

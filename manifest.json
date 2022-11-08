@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Fix crafts of chest, torch and stick",
+        "description": "Fix crafts",
         "name": "CraftFix for ZelalMine",
         "uuid": "a7f5b2b5-11b3-494b-b029-fdff1bfd135b",
-        "version": [ 0, 0, 1 ],
+        "version": [ 0, 0, 5 ],
         "min_engine_version": [ 1, 19, 40 ]
     },
     "modules": [
         {
-            "description": "Fix crafts of chest, torch and stick",
+            "description": "Fix crafts",
             "type": "data",
             "uuid": "afa8e3ba-ec5a-4c33-a9ee-482bf97a87ab",
-            "version": [0, 0, 1]
+            "version": [0, 0, 5]
         }
     ]
 }
